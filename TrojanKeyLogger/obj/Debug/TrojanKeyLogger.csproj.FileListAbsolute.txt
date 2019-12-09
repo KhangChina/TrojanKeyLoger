@@ -1,0 +1,6 @@
+D:\Project\TrojanKeyLogger\TrojanKeyLogger\TrojanKeyLogger\bin\Debug\TrojanKeyLogger.exe.config
+D:\Project\TrojanKeyLogger\TrojanKeyLogger\TrojanKeyLogger\bin\Debug\TrojanKeyLogger.exe
+D:\Project\TrojanKeyLogger\TrojanKeyLogger\TrojanKeyLogger\bin\Debug\TrojanKeyLogger.pdb
+D:\Project\TrojanKeyLogger\TrojanKeyLogger\TrojanKeyLogger\obj\Debug\TrojanKeyLogger.csproj.CoreCompileInputs.cache
+D:\Project\TrojanKeyLogger\TrojanKeyLogger\TrojanKeyLogger\obj\Debug\TrojanKeyLogger.exe
+D:\Project\TrojanKeyLogger\TrojanKeyLogger\TrojanKeyLogger\obj\Debug\TrojanKeyLogger.pdb

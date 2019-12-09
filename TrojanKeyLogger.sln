@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrojanKeyLogger", "TrojanKeyLogger\TrojanKeyLogger.csproj", "{F96C23E4-507C-46B8-8731-81E77B0449CD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Unikey", "Unikey\Unikey.vdproj", "{E5CE9D0D-130A-4291-B587-0BFB44B1B3F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UnikeyNT", "UnikeyNT\UnikeyNT.vdproj", "{80FB97CD-C18C-4CDA-8A3A-0861262E23AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96C23E4-507C-46B8-8731-81E77B0449CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96C23E4-507C-46B8-8731-81E77B0449CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96C23E4-507C-46B8-8731-81E77B0449CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96C23E4-507C-46B8-8731-81E77B0449CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CE9D0D-130A-4291-B587-0BFB44B1B3F7}.Debug|Any CPU.ActiveCfg = Debug
+		{E5CE9D0D-130A-4291-B587-0BFB44B1B3F7}.Release|Any CPU.ActiveCfg = Release
+		{80FB97CD-C18C-4CDA-8A3A-0861262E23AF}.Debug|Any CPU.ActiveCfg = Debug
+		{80FB97CD-C18C-4CDA-8A3A-0861262E23AF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F75ECA-440F-4297-B1EB-F23C9135595F}
+	EndGlobalSection
+EndGlobal
